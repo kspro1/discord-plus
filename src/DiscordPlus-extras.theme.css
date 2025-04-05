@@ -11,8 +11,8 @@
  * @updateUrl https://plusinsta.github.io/discord-plus/src/DiscordPlus-extras.theme.css
  * @invite 2Jwh2nS
 */
-@import url('https://plusinsta.github.io/discord-plus/src/DiscordPlus-plugins.theme.css');
-@import url('https://plusinsta.github.io/discord-plus/src/tweaks/compact.css');
+@import url('https://raw.githubusercontent.com/kspro1/discord-plus/refs/heads/master/src/DiscordPlus-plugins.theme.css');
+@import url('https://raw.githubusercontent.com/kspro1/discord-plus/refs/heads/master/src/tweaks/compact.css');
 
 @font-face { /* a font i made */
   font-family: PixelPetit;
